@@ -1,0 +1,35 @@
+
+.btn > button{
+    color: white;
+    height: 30px;
+    width: 110px;
+    font-weight: bolder;
+
+    margin: 7px;
+    border-radius: 20px;
+    border: none;
+}
+.dwn{
+background-color: #a98a3f;
+}
+.join{
+background-color: #1b9ed0;
+}
+.login{
+background-color: #f9a61b;
+}
+.help{
+background-color: #595490;
+}
+.search{
+background-color: #8fbe43;
+}
+.home{
+background-color: #e14989;
+}
+.contact{
+background-color: #d93b4b;
+}
+.setting{
+background-color: #739cae;
+}
